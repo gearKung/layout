@@ -18,7 +18,7 @@ header부분
 		<li><a href="/board/index">게시판</a></li>
 		<li><a href="/member/index">회원가입</a></li>
 		
-	</ul>
+	</ul> 
 </div>
 
 </body>
